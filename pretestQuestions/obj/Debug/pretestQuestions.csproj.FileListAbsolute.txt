@@ -1,0 +1,7 @@
+F:\MUI\application-tests\pretestQuestions\bin\Debug\pretestQuestions.exe.config
+F:\MUI\application-tests\pretestQuestions\bin\Debug\pretestQuestions.exe
+F:\MUI\application-tests\pretestQuestions\bin\Debug\pretestQuestions.pdb
+F:\MUI\application-tests\pretestQuestions\obj\Debug\pretestQuestions.csprojAssemblyReference.cache
+F:\MUI\application-tests\pretestQuestions\obj\Debug\pretestQuestions.csproj.CoreCompileInputs.cache
+F:\MUI\application-tests\pretestQuestions\obj\Debug\pretestQuestions.exe
+F:\MUI\application-tests\pretestQuestions\obj\Debug\pretestQuestions.pdb
